@@ -20,3 +20,5 @@ Imports:
     rlang,
     tibble
 VignetteBuilder: knitr
+URL: https://github.com/22F-DATA-413-613/testpackage22F001
+BugReports: https://github.com/22F-DATA-413-613/testpackage22F001/issues
